@@ -22,6 +22,7 @@ time.sleep(3)
 pyautogui.click(x=-1132, y=176)
 pyautogui.write("pythonimpressionador@gmail.com")
 pyautogui.press("tab")
+
 pyautogui.write("123456")
 pyautogui.press("tab")
 pyautogui.press("enter")
